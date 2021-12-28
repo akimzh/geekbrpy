@@ -64,4 +64,4 @@ i = 1
 while b > a - a*0.1 :
 	print(str(i)+"-й"+" день:", round(a, 2))
 	a = a*1.1
-	i+=1
+	i+=1\
