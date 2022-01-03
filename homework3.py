@@ -89,4 +89,3 @@ def int_func(str_):
 	return str_.title()
 
 print(int_func('text new realized'))
-
