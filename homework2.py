@@ -118,3 +118,4 @@ analys['цена'] = list_price
 analys['количество'] = list_count
 analys['ед'] = list_unit
 print(analys)
+
