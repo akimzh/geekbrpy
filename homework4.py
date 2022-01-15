@@ -73,3 +73,4 @@ for el in fact(4):
 
 print('Факториал равен:',factorial)
 
+
